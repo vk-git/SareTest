@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SareTest</string>
+    <string name="error_title">Error</string>
+    <string name="error_message">Something want wrong please try again!</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+</resources>
